@@ -31,4 +31,5 @@ ll findFactors(ll nr) {
     return nums.back();
 }
 
+// Call the function findFactors with necessary parameters
 #endif /* Problem3_h */
