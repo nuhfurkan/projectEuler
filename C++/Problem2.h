@@ -27,4 +27,5 @@ int findSumEvenFibonacci(int max) {
     return sum;
 }
 
+// Call the function findSumEvenFibonacci with necessary parameters
 #endif /* Problem2_h */
