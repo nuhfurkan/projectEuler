@@ -1,5 +1,5 @@
 Solutions to problems from Project Euler
 
-Xcode Apple Clang - Language - C++
-C++ Language dialect: GNU14++
-C++ Standart Library: libc++
+Xcode Apple Clang - Language - C++ <br>
+C++ Language dialect: GNU14++ <br>
+C++ Standart Library: libc++ <br>
