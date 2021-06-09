@@ -24,4 +24,5 @@ int problem1(int maxnum, int nr1, int nr2) {
     return caculateSum(maxnum, nr1) + caculateSum(maxnum, nr2) - caculateSum(maxnum, nr3);
 }
 
+// Call the function problem1 with necessary parameters
 #endif /* Problem1_h */
