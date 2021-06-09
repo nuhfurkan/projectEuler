@@ -31,4 +31,5 @@ int sumSquareDifferece(int n) {
     return sumSquares(n) - squares(n);
 }
 
+// Call the function sumSquareDifferece with necessary parameters
 #endif /* Problem6_h */
