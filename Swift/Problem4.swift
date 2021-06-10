@@ -43,7 +43,7 @@ func findTwoThreeDigits(nums: Int) -> Bool {
 }
 
 
-func calculateMaxPlondrome() -> Int {
+func calculateMaxPolindrome() -> Int {
     var max = 999999
     while max >= 10000 {
         if polindrome(num: max) {
