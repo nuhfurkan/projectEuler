@@ -23,4 +23,4 @@ func sumTwoMultiples(max: Int, num1: Int, num2:Int) -> Int {
 }
 
 // call sumTwoMultiples with (max Bound, number 1, number 2) as parameters
-// in our case -> sumTwoMultiples(1000, 3, 5)
+// in our case -> sumTwoMultiples(max:1000, num1:3, num2:5)
