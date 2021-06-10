@@ -48,5 +48,5 @@ class FindPrimes {
 
 
 
-// call function findPrime(num: *input number*)
+// call method findPrime(num: *input number*)
 // where input number is the parameter
