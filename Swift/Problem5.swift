@@ -47,7 +47,6 @@ func minNumber(num: Int) -> Int {
         }
     }
     
-    
     return nm
 }
 
