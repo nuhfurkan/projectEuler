@@ -23,4 +23,4 @@ func firstIndexWithThousand() -> Int {
     }
     return n
 }
-// call function firstIndexWithThousand()
+// call the function firstIndexWithThousand()
