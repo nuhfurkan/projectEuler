@@ -9,7 +9,7 @@
 import Foundation
 
 
-// ATTENTION - BigNumber.swift form the repo Data-Structures-and-Algortihms was used in this problem
+// ATTENTION - BigNumber.swift from the repo Data-Structures-and-Algortihms was used in this problem
 func firstIndexWithThousand() -> Int {
     var first = BigNumber(newNumber: "1")
     var sec = BigNumber(newNumber: "1")
