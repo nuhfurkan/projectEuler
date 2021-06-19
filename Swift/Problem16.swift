@@ -8,6 +8,7 @@
 
 import Foundation
 
+// ATTENTION - BigNumber.swift form the repo Data-Structures-and-Algorithms was used in this problem
 func sumPowerDigits(num: Int, power: Int) -> Int {
     let bgnm2 = BigNumber(newNumber: String(num))
     var resNumber = BigNumber(newNumber: "1")
